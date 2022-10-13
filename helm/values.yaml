@@ -9,7 +9,7 @@ service:
 
 image:
   repository: samiislam/hello-k8s
-  tag: 1.0
+  tag: '1.0'
   pullPolicy: IfNotPresent
 
 replicaCount: 1
